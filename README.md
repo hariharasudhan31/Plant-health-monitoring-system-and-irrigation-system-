@@ -73,5 +73,3 @@ This project is designed to automatically monitor soil moisture levels and contr
 - Use an LCD or OLED display to show the moisture level and weather status.
 - Implement a mobile app to monitor and control the system remotely.
 
-## License:
-This project is open-source. Feel free to modify and improve it according to your needs!
